@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Fan Yang
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Tsinghua University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robotics and artificial intelligence, especially manipulation, human-robot interaction and motion planning.
 
 interests:
 - Artificial Intelligence
